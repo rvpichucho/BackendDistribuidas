@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'DISTRIBUIDA-API'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7AF23AC27EED440CA965E66A0D9C18B3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC35CA0469114A58A29BAEB8DDA3B733 }}
           package: .
